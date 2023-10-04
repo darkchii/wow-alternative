@@ -1,0 +1,21 @@
+{
+  "name": "wow-alternative",
+  "version": "1.0.0",
+  "description": "Sister bot to osu!alternative.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkchii/wow-alternative.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkchii/wow-alternative/issues"
+  },
+  "homepage": "https://github.com/darkchii/wow-alternative#readme"
+}
