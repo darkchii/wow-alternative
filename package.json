@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/darkchii/wow-alternative/issues"
   },
-  "homepage": "https://github.com/darkchii/wow-alternative#readme"
+  "homepage": "https://github.com/darkchii/wow-alternative#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  }
 }
